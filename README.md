@@ -37,10 +37,5 @@ This project delivers deep **retail analytics and visual storytelling** on resta
 
 ---
 
-## 📖 How to Cite This Project
-If you'd like to present or share this project, feel free to use a summarizing line like:
 
-> *"Swiggy Restaurant Insights – Interactive Power BI dashboard analyzing restaurant cost, ratings, cuisine, and regional trends across India."*
-
----
 
